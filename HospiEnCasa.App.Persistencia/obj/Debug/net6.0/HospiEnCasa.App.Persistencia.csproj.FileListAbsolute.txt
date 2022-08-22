@@ -1,0 +1,17 @@
+E:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.csproj.AssemblyReference.cache
+E:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.AssemblyInfoInputs.cache
+E:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.AssemblyInfo.cs
+E:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
+E:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\net6.0\HospiEnCasa.App.Persistencia.deps.json
+E:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\net6.0\HospiEnCasa.App.Persistencia.runtimeconfig.json
+E:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\net6.0\HospiEnCasa.App.Persistencia.dll
+E:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\net6.0\HospiEnCasa.App.Persistencia.pdb
+E:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\net6.0\HospiEnCasa.App.Dominio.dll
+E:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\net6.0\HospiEnCasa.App.Dominio.pdb
+E:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.csproj.CopyComplete
+E:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.dll
+E:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\refint\HospiEnCasa.App.Persistencia.dll
+E:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.pdb
+E:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\HospiEnCasa.App.Persistencia.genruntimeconfig.cache
+E:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\net6.0\ref\HospiEnCasa.App.Persistencia.dll
